@@ -9,3 +9,11 @@ No more headache
  [Chemlab Peripherals] (https://github.com/innovstrument/Chemlab-peripherals)
 
 谢谢！
+
+## 文件分发
+
+分发部分考虑到储存问题，目前是以网盘+BitTorrent的形式进行分发。
+
+BitTorrent的链接为：
+
+  %url%
